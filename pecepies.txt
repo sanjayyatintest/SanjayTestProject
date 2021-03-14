@@ -1,6 +1,8 @@
 Keer 
 Pasta
 Chicken Fry
+Beans
+Pizza
 
 
 Final Change
